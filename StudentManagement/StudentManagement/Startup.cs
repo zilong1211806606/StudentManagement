@@ -24,6 +24,7 @@ namespace StudentManagement
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -33,14 +34,18 @@ namespace StudentManagement
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            
             app.UseRouting();
+            app.UseStaticFiles();
+            app.UseMvcWithDefaultRoute();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    string processName = System.Diagnostics.Process.GetCurrentProcess().ProcessName; ;
+                    string processName = System.Diagnostics.Process.GetCurrentProcess().ProcessName;
+                    context.Response.ContentType = "text/plain; charset=utf-8";
+                    throw new Exception("ÖÐÎÄÂÒÂë");
                     await context.Response.WriteAsync(_configuration["MyKey"]);
                 });
             });
