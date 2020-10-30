@@ -18,3 +18,23 @@ E:\Users\朱子龙\Documents\Visual Studio 2015\Projects\StudentManagement\Stude
 E:\Users\朱子龙\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.dll
 E:\Users\朱子龙\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.pdb
 E:\Users\朱子龙\Documents\Visual Studio 2015\Projects\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.genruntimeconfig.cache
+G:\git\StudentManagement\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\git\StudentManagement\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\git\StudentManagement\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\appsettings.json
+G:\git\StudentManagement\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.exe
+G:\git\StudentManagement\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.deps.json
+G:\git\StudentManagement\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.runtimeconfig.json
+G:\git\StudentManagement\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.runtimeconfig.dev.json
+G:\git\StudentManagement\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.dll
+G:\git\StudentManagement\StudentManagement\StudentManagement\bin\Debug\netcoreapp3.1\StudentManagement.pdb
+G:\git\StudentManagement\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.csprojAssemblyReference.cache
+G:\git\StudentManagement\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.AssemblyInfoInputs.cache
+G:\git\StudentManagement\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.AssemblyInfo.cs
+G:\git\StudentManagement\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.csproj.CoreCompileInputs.cache
+G:\git\StudentManagement\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.MvcApplicationPartsAssemblyInfo.cache
+G:\git\StudentManagement\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.RazorTargetAssemblyInfo.cache
+G:\git\StudentManagement\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\staticwebassets\StudentManagement.StaticWebAssets.Manifest.cache
+G:\git\StudentManagement\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\staticwebassets\StudentManagement.StaticWebAssets.xml
+G:\git\StudentManagement\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.dll
+G:\git\StudentManagement\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.pdb
+G:\git\StudentManagement\StudentManagement\StudentManagement\obj\Debug\netcoreapp3.1\StudentManagement.genruntimeconfig.cache

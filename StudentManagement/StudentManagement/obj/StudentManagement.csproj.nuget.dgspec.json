@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\朱子龙\\Documents\\Visual Studio 2015\\Projects\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {}
+    "G:\\git\\StudentManagement\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {}
   },
   "projects": {
-    "E:\\Users\\朱子龙\\Documents\\Visual Studio 2015\\Projects\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {
+    "G:\\git\\StudentManagement\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\朱子龙\\Documents\\Visual Studio 2015\\Projects\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+        "projectUniqueName": "G:\\git\\StudentManagement\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
         "projectName": "StudentManagement",
-        "projectPath": "E:\\Users\\朱子龙\\Documents\\Visual Studio 2015\\Projects\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+        "projectPath": "G:\\git\\StudentManagement\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
         "packagesPath": "C:\\Users\\朱子龙\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\朱子龙\\Documents\\Visual Studio 2015\\Projects\\StudentManagement\\StudentManagement\\obj\\",
+        "outputPath": "G:\\git\\StudentManagement\\StudentManagement\\StudentManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
